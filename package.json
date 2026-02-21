@@ -1,0 +1,23 @@
+{
+  "name": "playwrightgoogleproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@faker-js/faker": "^10.3.0",
+    "extract-stealth-evasions": "^2.7.3",
+    "jimp": "^1.6.0",
+    "jsqr": "^1.4.0",
+    "playwright": "^1.58.2",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {}
+}
